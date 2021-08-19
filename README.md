@@ -17,6 +17,7 @@ replace the character at index 'i' with character 'c'.
 Sample Input:
 
 abracadabra
+
 5 k
 
 Sample Output:
